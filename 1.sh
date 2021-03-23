@@ -10,4 +10,6 @@ do
 	else
 		ls /byte20/$line > ${line}_$DATA.txt
 	fi
+
+	echo "Viene modificato il file
 done
